@@ -1,0 +1,1 @@
+This is my first odin project and i would be creating the google homepage with the skills i have acquired from html and css.
