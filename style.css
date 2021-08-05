@@ -1,0 +1,25 @@
+background {
+    color: #f7f5ed;
+}
+li {
+    display: flex;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 100%;
+    text-decoration: underline;
+    
+}
+ /*
+.searchbar {
+    aspect-ratio: ;
+   size: ;
+    border-radius: 10px;
+    border: 
+    min-width: 200%;
+
+}*/
+.wrapper {
+    display: grid;
+    color: #e6e2da;
+}

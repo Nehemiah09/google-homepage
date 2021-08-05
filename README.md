@@ -1,1 +1,1 @@
-This is my first odin project and i would be creating the google homepage with the skills i have acquired from html and css.
+This is my google-hompage demo. i would be using knowledge from html and css to make it look exactly like google-hompage to a certain acceptable level. Thank you, keep coding.
